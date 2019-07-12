@@ -1,0 +1,7 @@
+[package]
+name = "serve"
+version = "0.1.0"
+authors = ["suriya-ganesh"]
+edition = "2018"
+
+[dependencies]
