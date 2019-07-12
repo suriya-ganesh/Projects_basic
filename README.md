@@ -11,3 +11,8 @@ A collection of my non-serious, simple projects I did while learning a language.
   * [Wasted time Counter](https://github.com/suriya-ganesh/Projects_basic)
  
 #### Rust
+
+  * [Rust Commandline Prog](https://github.com/suriya-ganesh/Projects_basic/tree/master/Rust_Commandline_prog)
+  * [Rust Guessing Game](https://github.com/suriya-ganesh/Projects_basic/tree/master/Rust_Guessing_Game)
+  * [Rust Multithreaded Server](https://github.com/suriya-ganesh/Projects_basic/tree/master/Rust_Server_multithreaded)
+ 
