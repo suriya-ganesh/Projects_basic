@@ -48,7 +48,7 @@ file= ET.fromstring(page).find('head/title')
 band_title = file.text.replace(' - Wikipedia','')
 
 wikipedia='https://en.wikipedia.org/wiki/Special:Random'
-page = requests.get(wikipedia).text.strip()p
+page = requests.get(wikipedia).text.strip()
 file= ET.fromstring(page).find('head/title')
 album_title = file.text.replace(' - Wikipedia','')
 print(album_title)
